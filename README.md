@@ -14,6 +14,8 @@ My stack of work and studies
 - CI/CD using **CircleCI / TravisCI / Buddy / Bitbucket Pipelines / Azure DevOps**
 - Devops universe enthusiast - **Docker / Kubernetes / Terraform / Ansible(studying)** and tools for code coverage(**Sonarqube / Codacy**)
 
+[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eusouodaniel&show_icons=true)](https://github.com/eusouodaniel)
+
 ## 📫 Contact Me
 - LinkedIn - [Daniel Rodrigues](https://www.linkedin.com/in/eusouodaniel)
 - Site - [eusouodaniel](https://eusouodaniel.com)
