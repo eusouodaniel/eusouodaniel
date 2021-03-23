@@ -1,12 +1,12 @@
 # Daniel Rodrigues
-Fullstack developer @ [Take](https://github.com/takenet)
+Software Data Engineer @ [Hotmart](https://www.linkedin.com/company/hotmart)
 
 ## 🧐 About me
 Solving problems through code and entering the frontend universe.
 
 ## ⚡ Technologies
 My stack of work and studies
-- Backend development using **ASP.NET Core / Node / PHP / Ruby / Python**
+- Backend development using **ASP.NET Core / Node / PHP / Ruby / Python / Spring / Java **
 - Frontend development using **Angular / React / Vue**
 - Architectural design as for NoSQL database systems like **MongoDB / Cassandra** and using cache like **Redis**
 - Architectural design as for **GraphQL** API
