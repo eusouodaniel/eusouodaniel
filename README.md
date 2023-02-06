@@ -1,5 +1,5 @@
 # Daniel Rodrigues
-Senior Software Engineer @ [Stone](https://www.linkedin.com/company/stone-co)
+Senior Software Engineer @ [Flash](https://www.linkedin.com/company/meuflash)
 
 ## 🧐 About me
 Solving problems through code and entering the frontend universe.
