@@ -1,5 +1,5 @@
 # Daniel Rodrigues
-Senior Software Engineer @ [Flash](https://www.linkedin.com/company/meuflash)
+Tech Lead @ [Flash](https://www.linkedin.com/company/meuflash)
 
 ## 🧐 About me
 Solving problems through code and entering the frontend universe.
@@ -11,8 +11,8 @@ My stack of work and studies
 - Architectural design as for NoSQL database systems like **MongoDB / Cassandra** and using cache like **Redis**
 - Architectural design as for **GraphQL** API
 - Cloud architecture using **Microsoft Azure / AWS / DigitalOcean**
-- CI/CD using **CircleCI / TravisCI / Buddy / Bitbucket Pipelines / Azure DevOps**
-- Devops universe enthusiast - **Docker / Kubernetes / Terraform / Ansible(studying)** and tools for code coverage(**Sonarqube / Codacy**)
+- CI/CD using **CircleCI / Drone / GitActions / TravisCI / Buddy / Bitbucket Pipelines / Azure DevOps**
+- Devops universe enthusiast - **Docker / Kubernetes / Terraform / Ansible** and tools for code coverage(**Sonarqube / Codacy**)
 
 [![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eusouodaniel&show_icons=true)](https://github.com/eusouodaniel)
 
